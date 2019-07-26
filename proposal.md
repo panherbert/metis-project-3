@@ -1,14 +1,14 @@
 # Proposal
 
-## Information
+### Information
 
 The data is related with direct telemarketing campaign of a banking institution
 
-## Goal
+### Goal
 
 The classification goal is to predict if the client will subscribe (yes/no) to the banking product.
 
-## Data Collection
+### Data Collection
 
 |Schema|Name|Type|Owner|Row Count|
 |:---|:---|:---|:---|:---|
